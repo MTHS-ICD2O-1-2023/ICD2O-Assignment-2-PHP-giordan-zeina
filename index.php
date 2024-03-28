@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/area_of_trinagle.png" alt="triangle image" />
+        <img src="./images/rectangle-perimeter-example_ver_1.png" alt="rectangle image" />
       </div>
       <br />
       <div class="page-content">Enter the length and Width in cm.</div>
